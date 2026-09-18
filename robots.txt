@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apftndw.github.io/sitemap.xml
